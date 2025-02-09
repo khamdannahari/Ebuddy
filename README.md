@@ -217,7 +217,7 @@ To test the login functionality, you can use the following dummy user credential
     }
     ```
 
-## Screeshot
+## Screenshot
 <img width="1440" alt="Screenshot 2025-02-10 at 03 46 32" src="https://github.com/user-attachments/assets/8b488462-91f4-439e-841a-4cf5d10a02a8" />
 <img width="1440" alt="Screenshot 2025-02-10 at 03 46 22" src="https://github.com/user-attachments/assets/759f31f9-c859-4a93-bd30-bcc94efc8267" />
 <img width="1552" alt="Screenshot 2025-02-10 at 03 47 10" src="https://github.com/user-attachments/assets/d00c2a9f-7d32-442f-b740-cf569eca7da0" />
